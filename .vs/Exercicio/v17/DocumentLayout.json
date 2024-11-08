@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gugan\\source\\repos\\Teste\\Teste de C# da Ailos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D06C574B-F21B-451C-83A9-1E58D8721941}|Questao5.Test\\Questao5.Test.csproj|c:\\users\\gugan\\source\\repos\\teste\\teste de c# da ailos\\questao5.test\\application\\handlers\\movimentohandlertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D06C574B-F21B-451C-83A9-1E58D8721941}|Questao5.Test\\Questao5.Test.csproj|solutionrelative:questao5.test\\application\\handlers\\movimentohandlertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D06C574B-F21B-451C-83A9-1E58D8721941}|Questao5.Test\\Questao5.Test.csproj|c:\\users\\gugan\\source\\repos\\teste\\teste de c# da ailos\\questao5.test\\application\\handlers\\contacorrentehandlertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D06C574B-F21B-451C-83A9-1E58D8721941}|Questao5.Test\\Questao5.Test.csproj|solutionrelative:questao5.test\\application\\handlers\\contacorrentehandlertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\users\\gugan\\source\\repos\\teste\\teste de c# da ailos\\questao5\\infrastructure\\services\\controllers\\saldocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\infrastructure\\services\\controllers\\saldocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\users\\gugan\\source\\repos\\teste\\teste de c# da ailos\\questao5\\application\\handlers\\contacorrentehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\application\\handlers\\contacorrentehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\users\\gugan\\source\\repos\\teste\\teste de c# da ailos\\questao5\\application\\queries\\responses\\saldocontacorrenteresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\application\\queries\\responses\\saldocontacorrenteresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\users\\gugan\\source\\repos\\teste\\teste de c# da ailos\\questao5\\application\\commands\\requests\\createmovimentorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\application\\commands\\requests\\createmovimentorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContaCorrenteHandlerTest.cs",
+              "DocumentMoniker": "C:\\Users\\gugan\\source\\repos\\Teste\\Teste de C# da Ailos\\Questao5.Test\\Application\\Handlers\\ContaCorrenteHandlerTest.cs",
+              "RelativeDocumentMoniker": "Questao5.Test\\Application\\Handlers\\ContaCorrenteHandlerTest.cs",
+              "ToolTip": "C:\\Users\\gugan\\source\\repos\\Teste\\Teste de C# da Ailos\\Questao5.Test\\Application\\Handlers\\ContaCorrenteHandlerTest.cs",
+              "RelativeToolTip": "Questao5.Test\\Application\\Handlers\\ContaCorrenteHandlerTest.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAqwDgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T06:20:41.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContaCorrenteHandler.cs",
+              "DocumentMoniker": "C:\\Users\\gugan\\source\\repos\\Teste\\Teste de C# da Ailos\\Questao5\\Application\\Handlers\\ContaCorrenteHandler.cs",
+              "RelativeDocumentMoniker": "Questao5\\Application\\Handlers\\ContaCorrenteHandler.cs",
+              "ToolTip": "C:\\Users\\gugan\\source\\repos\\Teste\\Teste de C# da Ailos\\Questao5\\Application\\Handlers\\ContaCorrenteHandler.cs",
+              "RelativeToolTip": "Questao5\\Application\\Handlers\\ContaCorrenteHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T06:08:34.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovimentoHandlerTest.cs",
+              "DocumentMoniker": "C:\\Users\\gugan\\source\\repos\\Teste\\Teste de C# da Ailos\\Questao5.Test\\Application\\Handlers\\MovimentoHandlerTest.cs",
+              "RelativeDocumentMoniker": "Questao5.Test\\Application\\Handlers\\MovimentoHandlerTest.cs",
+              "ToolTip": "C:\\Users\\gugan\\source\\repos\\Teste\\Teste de C# da Ailos\\Questao5.Test\\Application\\Handlers\\MovimentoHandlerTest.cs",
+              "RelativeToolTip": "Questao5.Test\\Application\\Handlers\\MovimentoHandlerTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T06:10:14.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SaldoContaCorrenteResponse.cs",
+              "DocumentMoniker": "C:\\Users\\gugan\\source\\repos\\Teste\\Teste de C# da Ailos\\Questao5\\Application\\Queries\\Responses\\SaldoContaCorrenteResponse.cs",
+              "RelativeDocumentMoniker": "Questao5\\Application\\Queries\\Responses\\SaldoContaCorrenteResponse.cs",
+              "ToolTip": "C:\\Users\\gugan\\source\\repos\\Teste\\Teste de C# da Ailos\\Questao5\\Application\\Queries\\Responses\\SaldoContaCorrenteResponse.cs",
+              "RelativeToolTip": "Questao5\\Application\\Queries\\Responses\\SaldoContaCorrenteResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T06:05:37.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateMovimentoRequest.cs",
+              "DocumentMoniker": "C:\\Users\\gugan\\source\\repos\\Teste\\Teste de C# da Ailos\\Questao5\\Application\\Commands\\Requests\\CreateMovimentoRequest.cs",
+              "RelativeDocumentMoniker": "Questao5\\Application\\Commands\\Requests\\CreateMovimentoRequest.cs",
+              "ToolTip": "C:\\Users\\gugan\\source\\repos\\Teste\\Teste de C# da Ailos\\Questao5\\Application\\Commands\\Requests\\CreateMovimentoRequest.cs",
+              "RelativeToolTip": "Questao5\\Application\\Commands\\Requests\\CreateMovimentoRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T06:07:12.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SaldoController.cs",
+              "DocumentMoniker": "C:\\Users\\gugan\\source\\repos\\Teste\\Teste de C# da Ailos\\Questao5\\Infrastructure\\Services\\Controllers\\SaldoController.cs",
+              "RelativeDocumentMoniker": "Questao5\\Infrastructure\\Services\\Controllers\\SaldoController.cs",
+              "ToolTip": "C:\\Users\\gugan\\source\\repos\\Teste\\Teste de C# da Ailos\\Questao5\\Infrastructure\\Services\\Controllers\\SaldoController.cs",
+              "RelativeToolTip": "Questao5\\Infrastructure\\Services\\Controllers\\SaldoController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T05:58:06.554Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
